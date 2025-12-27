@@ -1,0 +1,5 @@
+{
+  "name": "AppFunction Intel - AI Assistant Function Manager",
+  "description": "An AI-powered platform to manage, search, and validate mobile app assistant function definitions through semantic query analysis.",
+  "requestFramePermissions": []
+}
